@@ -38,4 +38,11 @@ show_sidebar: false
 ### Etapa 2: Herramientas profesionalizantes
 
 
+## Libro de consulta
+
+Speech and Language Processing (3rd ed. draft)
+Dan Jurafsky and James H. Martin
+Stanford University
+
+https://web.stanford.edu/~jurafsky/slp3/
 
