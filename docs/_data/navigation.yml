@@ -1,0 +1,32 @@
+- name: Temas
+  link: /#
+  dropdown:
+    - name: Tema 1 
+      link: /tema1/
+    - name: Tema 2
+      link: /tema2/
+    - name: Tema 3
+      link: /tema3/
+- name: Actividades aprendizaje
+  link: /#
+  dropdown:
+    - name: Tema 1 
+      link: /t-tema1/
+    - name: Tema 2
+      link: /t-tema2/
+    - name: Tema 3
+      link: /t-tema3/
+
+- name: Proyecto
+  link: /#
+  dropdown:
+    - name: Obtención de datos 
+      link: /proyecto1/
+    - name: Análisis exploratorio
+      link: /proyecto2/
+    - name: Procesamento de texto
+      link: /proyecto3/
+    - name: Solución inicial
+      link: /proyecto4/
+    - name: Propuesta original
+      link: /proyecto5/
