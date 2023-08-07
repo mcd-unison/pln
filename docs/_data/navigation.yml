@@ -1,22 +1,43 @@
-- name: Temas
+- name: Material
   link: /#
   dropdown:
-    - name: Tema 1 
-      link: /tema1/
-    - name: Tema 2
-      link: /tema2/
-    - name: Tema 3
-      link: /tema3/
+    - name: Teoría Académica básica
+      link: /#
+      dropdown:
+        - name: Introducción al curso 
+          link: /intro/
+        - name: Normalización y tokenización
+          link: /norm/
+        - name: Distancia de edición mínima
+          link: /edit/
+        - name: Modelo de n-gramas
+          link: /ngram/
+        - name: NB, LR, modelos bolsa de palabras
+          link: /bow/
+        - name: Algoritmo de Viterbi
+          link: /viterbi/
+        - name: Modelo CBOW
+          link: /cbow/
 - name: Actividades aprendizaje
   link: /#
   dropdown:
-    - name: Tema 1 
-      link: /t-tema1/
-    - name: Tema 2
-      link: /t-tema2/
-    - name: Tema 3
-      link: /t-tema3/
-
+    - name: Etapa 1
+      link: /#
+      dropdown:
+        - name: Taller de expresiones regulares 
+          link: /regex/
+        - name: Taller de preprocesamiento
+          link: /eda/
+        - name: Taller de autocorrector
+          link: /autocorrector/
+        - name: Taller de n-gramas
+          link: /t-ngram/
+        - name: Taller de modelos generativos vs discriminativos
+          link: /gen-vs-dis/
+        - name: Vecinos próximos aproximados
+          link: /knn-aprox/
+        - name: Modelo Word2Vec
+          link: /word2vec/
 - name: Proyecto
   link: /#
   dropdown:
