@@ -3,21 +3,8 @@
   dropdown:
     - name: Teoría Académica básica
       link: /#
-      dropdown:
-        - name: Introducción al curso 
-          link: /intro/
-        - name: Normalización y tokenización
-          link: /norm/
-        - name: Distancia de edición mínima
-          link: /edit/
-        - name: Modelo de n-gramas
-          link: /ngram/
-        - name: NB, LR, modelos bolsa de palabras
-          link: /bow/
-        - name: Algoritmo de Viterbi
-          link: /viterbi/
-        - name: Modelo CBOW
-          link: /cbow/
+    - name: Modelos de aprendizaje profundo
+      link: /pln-prfundo/
 - name: Actividades aprendizaje
   link: /#
   dropdown:

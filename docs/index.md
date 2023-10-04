@@ -35,14 +35,19 @@ show_sidebar: false
 | 11/9  | Algoritmo de Viterbi (pos--tagging) | 14/9 | Vecinos próximos aproximados |
 | 18/9  | Modelo CBOW                  | 21/9 | Modelos Word2Vec                  |
 
-### Etapa 2: Herramientas profesionalizantes
+### Etapa 2: Modelos basados en aprendizaje profundo
+
+| Fecha | Lunes 18:00 a 20:00 hrs      | Fecha | Jueves de 18:00 a 20:00 hrs     |
+| ----- | ---------------------------- | ----- | ------------------------------- |
+| 2/9   | Introducción al curso        | 10/8  | Taller expresiones regulares    |
+| 14/8  | Normalización y tokenización | 17/8 | Taller de preprocesamiento (EDA) |
 
 
 ## Libro de consulta
 
-Speech and Language Processing (3rd ed. draft)
+[Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)
 Dan Jurafsky and James H. Martin
 Stanford University
 
-https://web.stanford.edu/~jurafsky/slp3/
+
 
