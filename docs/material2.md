@@ -1,6 +1,6 @@
 ---
 title: Conceptos y modelos de aprendizaje profundo
-subtitle: Material del curso
+subtitle: Material del curso (Curso PLN/MCD/UNISON)
 layout: page
 hero_image: https://github.com/mcd-unison/pln/raw/main/docs/img/data-science-banner.jpg
 hero_darken: true
