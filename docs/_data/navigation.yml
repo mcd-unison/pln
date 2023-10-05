@@ -1,40 +1,14 @@
 - name: Material
   link: /#
   dropdown:
-    - name: Teoría Académica básica
+    - name: Conceptos y teoría clásica de PLN
       link: /#
-    - name: Modelos de aprendizaje profundo
-      link: /pln-prfundo/
-- name: Actividades aprendizaje
+    - name: Modelos basados en aprendizaje profundo para PLN
+      link: /material2/
+- name: Laboratorios
   link: /#
   dropdown:
-    - name: Etapa 1
+    - name: Conceptos y teoría clásica de PLN
       link: /#
-      dropdown:
-        - name: Taller de expresiones regulares 
-          link: /regex/
-        - name: Taller de preprocesamiento
-          link: /eda/
-        - name: Taller de autocorrector
-          link: /autocorrector/
-        - name: Taller de n-gramas
-          link: /t-ngram/
-        - name: Taller de modelos generativos vs discriminativos
-          link: /gen-vs-dis/
-        - name: Vecinos próximos aproximados
-          link: /knn-aprox/
-        - name: Modelo Word2Vec
-          link: /word2vec/
-- name: Proyecto
-  link: /#
-  dropdown:
-    - name: Obtención de datos 
-      link: /proyecto1/
-    - name: Análisis exploratorio
-      link: /proyecto2/
-    - name: Procesamento de texto
-      link: /proyecto3/
-    - name: Solución inicial
-      link: /proyecto4/
-    - name: Propuesta original
-      link: /proyecto5/
+    - name: Modelos basados en aprendizaje profundo para PLN
+      link: /labs2/
