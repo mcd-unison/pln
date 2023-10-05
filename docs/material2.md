@@ -1,5 +1,5 @@
 ---
-title: Modelos basados en aprendizaje profundo para PLN
+title: Conceptos y modelos de aprendizaje profundo
 subtitle: Material del curso
 layout: page
 hero_image: https://github.com/mcd-unison/pln/raw/main/docs/img/data-science-banner.jpg
