@@ -23,7 +23,7 @@ show_sidebar: false
 
 ## Temario
 
-### Etapa 1: Conceptos y teoría clásica de PLN
+### Etapa 1: Conceptos y modelos clásicos de PLN
 
 **Olivia Gutú**
 
@@ -37,7 +37,7 @@ show_sidebar: false
 | 11/9  | Algoritmo de Viterbi (pos--tagging) | 14/9 | Vecinos próximos aproximados |
 | 18/9  | Modelo CBOW                  | 21/9 | Modelos Word2Vec                  |
 
-### Etapa 2: Modelos basados en aprendizaje profundo para PLN
+### Etapa 2: Conceptos y modelos de aprendizaje profundo de PLN
 
 **Julio Waissman**
 

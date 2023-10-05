@@ -1,14 +1,14 @@
 - name: Material
   link: /#
   dropdown:
-    - name: Conceptos y teoría clásica de PLN
+    - name: Conceptos y modelos clásicos
       link: /#
-    - name: Modelos basados en aprendizaje profundo para PLN
+    - name: Conceptos y modelos de aprendizaje profundo
       link: /material2/
 - name: Laboratorios
   link: /#
   dropdown:
-    - name: Conceptos y teoría clásica de PLN
+    - name: Conceptos y modelos clásicos
       link: /#
-    - name: Modelos basados en aprendizaje profundo para PLN
+    - name: Conceptos y modelos de aprendizaje profundo
       link: /labs2/
