@@ -22,9 +22,13 @@ show_sidebar: false
 
 ## Artículos seminales
 
+- [Long Short-Term Memory (Hochreiter y Schmidhuber, 1997)](https://deeplearning.cs.cmu.edu/F23/document/readings/LSTM.pdf)
+
+- [Understanding LSTM -- a tutorial into Long Short-Term Memory Recurrent Neural Networks (Staudemeyer y Morris, 2019)](https://arxiv.org/abs/1909.09586)
+
 - [Attention Is All You Need (Vaswani et al, 2017)](https://arxiv.org/abs/1706.03762)
 
-- [Deep contextualized word representations (Peters et al, 2018)](https://arxiv.org/pdf/1802.05365.pdf)
+- [Deep contextualized word representations (Peters et al, 2018)](https://arxiv.org/pdf/1802.05365)
 
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (Devlin et al, 2018)](https://arxiv.org/abs/1810.04805)
 
