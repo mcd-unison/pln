@@ -9,7 +9,7 @@ show_sidebar: false
 
 ## Presentaciones usadas en el curso
 
-- [Introducción a los modelos secuenciales y celdas LSTM]()
+- [Introducción a los modelos secuenciales y celdas LSTM](https://www.github.com/mcd-unison/pln/blob/main/slides/pln-capitulo-2.pptx)
 
 ## Explicaciones gráficas
 
