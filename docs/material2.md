@@ -11,7 +11,16 @@ show_sidebar: false
 
 - [Introducción a los modelos secuenciales y celdas LSTM](https://www.github.com/mcd-unison/pln/blob/main/slides/pln-capitulo-2.pptx)
 
+- [*Name-entity Recognition* (NER) con LSTM](https://www.github.com/mcd-unison/pln/blob/main/slides/NER-LSTM.pdf)
+
+- [Redes Siamesas y *One shoot learning*](https://www.github.com/mcd-unison/pln/blob/main/slides/NN-siamesas.pdf)
+
+
 ## Explicaciones gráficas
+
+- [The Unreasonable Effectiveness of Recurrent Neural Networks (Karpathy, 2015)](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+
+- [Recurrent Neural Networks cheatsheet (Amidi y Amidi, 2019)](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
 
 - [The Illustrated Transformer (Alammar, 2018)](http://jalammar.github.io/illustrated-transformer/)
 
