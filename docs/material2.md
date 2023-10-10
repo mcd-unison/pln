@@ -46,5 +46,14 @@ show_sidebar: false
 - [Reformer: The Efficient Transformer (Kitaev et al, 2020)](https://arxiv.org/abs/2001.04451)
 
 
-## Librerías
+## Sitios y herramientas interesantes
 
+- La de base si estás en tensorflow: [*Keras*](https://keras.io)
+
+- Para NLP, está [*Keras NLP*](https://keras.io/keras_nlp/), la cual es una librería que funciona en forma nativa con Tensorflow, JAX y/o pyTorch. En general ayuda a establecer un flujo de trabajo tanto de entrenamiento como de puesta en producción de procesos de NLP. Muy pensada para el uso y ajuste fino de modelos preentrenados.
+
+- Si estás haciendo PLN con modelos profundos, no es posible vivir sin conocer a fondo [Hugging Face](https://huggingface.co). Es una compañía que mantiene un entorno de desarrollo abierto, una colección de modelos preentrenados, y una librería (la librería de transformadores mñas importante al momento), así como facilidades para poner los modelos en producción.
+
+- Para recursos específicos en español, *Hugging Face* mantiene una rama en los países que hablamos español, [Somos NLP](https://somosnlp.org). Muy recomendable. Incluye una bolsa de trabajo (muy centrada en España por el momento, pero que esperamos crezca).
+ 
+- La [Sociedad Española para el Procesamiento del Lenguage Natural (SEPLN)](http://www.sepln.org) es una de las organizaciones científicas en el área de informñatica más antiguas de España, y mantiene una revista desde 1983. Información interesante, acceso gratuito a la revista, congresos, hackatones. Todo muy español, pero con muchos lazos en Latinoamñerica y en espacial con México.
