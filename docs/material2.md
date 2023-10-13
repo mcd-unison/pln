@@ -22,6 +22,8 @@ show_sidebar: false
 
 - [Recurrent Neural Networks cheatsheet (Amidi y Amidi, 2019)](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
 
+- [Using Triplet Loss and Siamese Neural Networks to Train Catalog Item Embeddings (Ramachandran, 2021)](https://doordash.engineering/2021/09/08/using-twin-neural-networks-to-train-catalog-item-embeddings/)
+
 - [The Illustrated Transformer (Alammar, 2018)](http://jalammar.github.io/illustrated-transformer/)
 
 - [The Illustrated GPT-2 (Visualizing Transformer Language Models) (Alammar, 2019)](http://jalammar.github.io/illustrated-gpt2/)
