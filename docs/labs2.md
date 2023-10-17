@@ -13,13 +13,11 @@ show_sidebar: false
 - [Una RNN a pie, solo para entender la arquitectura](https://www.github.com/mcd-unison/pln/blob/main/labs/RNN/Estados-ocultos.ipynb)
 - [Análisis de sentimiento con LSTM](https://www.github.com/mcd-unison/pln/blob/main/labs/RNN/LSTM-IMdb.ipynb)
 - [El problema de NER con LSTM](https://www.github.com/mcd-unison/pln/blob/main/labs/RNN/ner-lstm.ipynb)
-
-- [Redes Siamesas para *One shoot learning*]()
+- [Redes Siamesas para *Few-shot learning*](https://www.github.com/mcd-unison/pln/blob/main/labs/RNN/siamesas.ipynb)
 
 # El mecanismo de atención
 
 - [El mecanismo de atención a pie, solo para entender]()
-  
 - [Modelo *seq-to-seq* con LSTM y mecanismo de atención]()
 
 # Atención es todo lo que necesitas

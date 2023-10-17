@@ -13,6 +13,8 @@ show_sidebar: false
 
 - [*Name-entity Recognition* (NER) con LSTM](https://www.github.com/mcd-unison/pln/blob/main/slides/NER-LSTM.pdf)
 
+- [Embeddings from Language Models (ELMo)](http://hanj.cs.illinois.edu/cs512/slides-students2020/Elmo.pdf)
+
 - [Redes Siamesas y *One shoot learning*](https://www.github.com/mcd-unison/pln/blob/main/slides/NN-siamesas.pdf)
 
 
