@@ -10,9 +10,13 @@ show_sidebar: false
 # LSTM
 
 - [El problema del desvanecimiento del gradiente](https://www.github.com/mcd-unison/pln/blob/main/labs/RNN/vanish-grad.ipynb)
+
 - [Una RNN a pie, solo para entender la arquitectura](https://www.github.com/mcd-unison/pln/blob/main/labs/RNN/Estados-ocultos.ipynb)
+
 - [Análisis de sentimiento con LSTM](https://www.github.com/mcd-unison/pln/blob/main/labs/RNN/LSTM-IMdb.ipynb)
+
 - [El problema de NER con LSTM](https://www.github.com/mcd-unison/pln/blob/main/labs/RNN/ner-lstm.ipynb)
+
 - [Redes Siamesas para *Few-shot learning*](https://www.github.com/mcd-unison/pln/blob/main/labs/RNN/siamesas.ipynb)
 
 # El mecanismo de atención
