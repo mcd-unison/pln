@@ -17,7 +17,7 @@ show_sidebar: false
 
 # El mecanismo de atención
 
-- [El mecanismo de atención a pie, solo para entender]()
+- [El mecanismo de atención a pie, solo para entender](https://www.github.com/mcd-unison/pln/blob/main/labs/atencion/atencion.ipynb)
 - [Modelo *seq-to-seq* con LSTM y mecanismo de atención]()
 
 # Atención es todo lo que necesitas

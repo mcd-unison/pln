@@ -17,6 +17,7 @@ show_sidebar: false
 
 - [Redes Siamesas y *One shoot learning*](https://www.github.com/mcd-unison/pln/blob/main/slides/NN-siamesas.pdf)
 
+- [El mecanismo de atención y traductores con LSTM](https://www.github.com/mcd-unison/pln/blob/main/slides/atencion-slides.pdf)
 
 ## Explicaciones gráficas
 
@@ -38,6 +39,8 @@ show_sidebar: false
 - [Long Short-Term Memory (Hochreiter y Schmidhuber, 1997)](https://deeplearning.cs.cmu.edu/F23/document/readings/LSTM.pdf)
 
 - [Understanding LSTM -- a tutorial into Long Short-Term Memory Recurrent Neural Networks (Staudemeyer y Morris, 2019)](https://arxiv.org/abs/1909.09586)
+
+- [Neural Machine Translation by Jointly Learning to Align and Translate (Bhadanau, et al, 2014)](https://arxiv.org/abs/1409.0473)
 
 - [Attention Is All You Need (Vaswani et al, 2017)](https://arxiv.org/abs/1706.03762)
 
