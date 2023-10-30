@@ -25,6 +25,8 @@ show_sidebar: false
   
 - [Modelo *seq-to-seq* con LSTM y mecanismo de atención](https://www.tensorflow.org/text/tutorials/nmt_with_attention?hl=en)
 
+
 # Atención es todo lo que necesitas
 
-- [Un modelo 100% usando celdas tipo *self-attention*]()
+- [Modelo *seq-to-seq* con transformadores, haciendo los transformadores mas o menos a pie](https://colab.research.google.com/github/keras-team/keras-io/blob/master/examples/nlp/ipynb/neural_machine_translation_with_transformer.ipynb)
+

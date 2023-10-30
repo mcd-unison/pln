@@ -19,6 +19,11 @@ show_sidebar: false
 
 - [El mecanismo de atención y traductores con LSTM](https://www.github.com/mcd-unison/pln/blob/main/slides/atencion-slides.pdf)
 
+- [El modelo de transformadores (muy fea mis presentación pero no me alcanzó pa más el seso)](https://www.github.com/mcd-unison/pln/blob/main/slides/transformers.pdf)
+
+- [Transfer learning y modelos preentrenados](https://www.github.com/mcd-unison/pln/blob/main/slides/transfer.pdf)
+
+
 ## Explicaciones gráficas
 
 - [The Unreasonable Effectiveness of Recurrent Neural Networks (Karpathy, 2015)](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
