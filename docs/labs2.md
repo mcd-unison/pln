@@ -31,6 +31,9 @@ show_sidebar: false
 
 # Usando modelos preentrenados
 
+
+- [A Visual Notebook to Using BERT for the First Tme](https://colab.research.google.com/github/jalammar/jalammar.github.io/blob/master/notebooks/bert/A_Visual_Notebook_to_Using_BERT_for_the_First_Time.ipynb). libreta de [Alammar](http://jalammar.github.io) de la entrada de su blog [A Visual Guide to Using BERT for the First Time](http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/)
+
 - [Clasificación de textos con transformers](https://colab.research.google.com/github/somosnlp/nlp-de-cero-a-cien/blob/main/4_transformers_aprendizaje_por_transferencia/clasificacion_de_textos.ipynb), libreta del curso [Curso NLP de 0 a 100](https://somosnlp.org/recursos/curso-de-nlp-de-0-a-100) de la [Sesión 4: Transformers y Aprendizaje por Transferencia](https://somosnlp.org/nlp-de-cero-a-cien/sesion-04)
 
 
