@@ -34,9 +34,15 @@ show_sidebar: false
 
 - [The Illustrated Transformer (Alammar, 2018)](http://jalammar.github.io/illustrated-transformer/)
 
+- [BERT 101 🤗 State Of The Art NLP Model Explained (Muller, 2022)](https://huggingface.co/blog/bert-101)
+
+- [A Visual Guide to Using BERT for the First Time (Alammar, 2019)](http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/)
+
 - [The Illustrated GPT-2 (Visualizing Transformer Language Models) (Alammar, 2019)](http://jalammar.github.io/illustrated-gpt2/)
 
 - [How GPT3 Works - Visualizations and Animations (Alammar, 2020)](http://jalammar.github.io/how-gpt3-works-visualizations-animations/)
+
+- [Recent Advances in Language Model Fine-tuning (Ruder, 2021)](https://www.ruder.io/recent-advances-lm-fine-tuning/) 
 
 
 ## Artículos seminales

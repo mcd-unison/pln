@@ -23,10 +23,14 @@ show_sidebar: false
 
 - [El mecanismo de atención a pie, solo para entender](https://www.github.com/mcd-unison/pln/blob/main/labs/atencion/atencion.ipynb)
   
-- [Modelo *seq-to-seq* con LSTM y mecanismo de atención](https://www.tensorflow.org/text/tutorials/nmt_with_attention?hl=en)
+- [Modelo *seq-to-seq* con LSTM y mecanismo de atención](https://www.tensorflow.org/text/tutorials/nmt_with_attention?hl=en) de los ejemplos de uso de la documentación de Tensor Flow
 
 
-# Atención es todo lo que necesitas
+- [Modelo *seq-to-seq* con transformadores, haciendo los transformadores mas o menos a pie](https://colab.research.google.com/github/keras-team/keras-io/blob/master/examples/nlp/ipynb/neural_machine_translation_with_transformer.ipynb) de la guías de ejemplos de la documentación de Keras
 
-- [Modelo *seq-to-seq* con transformadores, haciendo los transformadores mas o menos a pie](https://colab.research.google.com/github/keras-team/keras-io/blob/master/examples/nlp/ipynb/neural_machine_translation_with_transformer.ipynb)
+
+# Usando modelos preentrenados
+
+- [Clasificación de textos con transformers](https://colab.research.google.com/github/somosnlp/nlp-de-cero-a-cien/blob/main/4_transformers_aprendizaje_por_transferencia/clasificacion_de_textos.ipynb), libreta del curso [Curso NLP de 0 a 100](https://somosnlp.org/recursos/curso-de-nlp-de-0-a-100) de la [Sesión 4: Transformers y Aprendizaje por Transferencia](https://somosnlp.org/nlp-de-cero-a-cien/sesion-04)
+
 
