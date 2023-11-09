@@ -23,6 +23,8 @@ show_sidebar: false
 
 - [Transfer learning y modelos preentrenados](https://www.github.com/mcd-unison/pln/blob/main/slides/transfer.pdf)
 
+- [Tareas con secuencias largas](https://www.github.com/mcd-unison/pln/blob/main/slides/secuencias-largas.pdf)
+
 
 ## Explicaciones gráficas
 
@@ -43,6 +45,10 @@ show_sidebar: false
 - [How GPT3 Works - Visualizations and Animations (Alammar, 2020)](http://jalammar.github.io/how-gpt3-works-visualizations-animations/)
 
 - [Recent Advances in Language Model Fine-tuning (Ruder, 2021)](https://www.ruder.io/recent-advances-lm-fine-tuning/) 
+
+- [Understanding Locality Sensitive Hashing(LSH): A Powerful Technique for Similarity Search (Joshi, 2023)](https://medium.com/@sarthakjoshi_9398/understanding-locality-sensitive-hashing-lsh-a-powerful-technique-for-similarity-search-a95b090bdc4a)
+  
+- [LSH Algorithm and Implementation (E2LSH)](https://www.mit.edu/~andoni/LSH/)
 
 
 ## Artículos seminales
