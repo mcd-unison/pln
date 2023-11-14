@@ -25,6 +25,7 @@ show_sidebar: false
 
 - [Tareas con secuencias largas](https://www.github.com/mcd-unison/pln/blob/main/slides/secuencias-largas.pdf)
 
+- [LagChain: Get your LLM application from prototype to production](https://www.langchain.com), su [documentación](https://python.langchain.com/docs/get_started) y si [repositorio de GitHub](https://github.com/langchain-ai/langchain)
 
 ## Explicaciones gráficas
 
