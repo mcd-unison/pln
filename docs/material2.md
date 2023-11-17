@@ -82,3 +82,21 @@ show_sidebar: false
 - Para recursos específicos en español, *Hugging Face* mantiene una rama en los países que hablamos español, [Somos NLP](https://somosnlp.org). Muy recomendable. Incluye una bolsa de trabajo (muy centrada en España por el momento, pero que esperamos crezca).
  
 - La [Sociedad Española para el Procesamiento del Lenguage Natural (SEPLN)](http://www.sepln.org) es una de las organizaciones científicas en el área de informñatica más antiguas de España, y mantiene una revista desde 1983. Información interesante, acceso gratuito a la revista, congresos, hackatones. Todo muy español, pero con muchos lazos en Latinoamñerica y en espacial con México.
+
+
+## Filosofía, sociedad, implicaciones éticas y sociales
+
+- [Language models and linguistic theories beyond words](https://www.nature.com/articles/s42256-023-00703-8)
+
+- [GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models](https://arxiv.org/abs/2303.10130)
+
+- [Yann LeCun and Andrew Ng: Why the 6-month AI Pause is a Bad Idea (Video)](https://www.youtube.com/live/BY9KV8uCtj4?si=ZmGJWo6ERkLwQdRg) 
+
+- Consideraciones éticas del uso de LLM en medicina:
+  - [Attention is not all you need: the complicated case of ethically using large language models in healthcare and medicine](https://www.sciencedirect.com/science/article/pii/S2352396423000774)
+  - [Ethics of large language models in medicine and medical
+research](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(23)00083-3/fulltext)
+
+- [Generative Conversational AI And Academic Integrity: A Mixed Method Investigation To Understand The Ethical Use of LLM Chatbots In Higher Education](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4548263)
+
+- [Student Use Cases for AI: Start by Sharing These Guidelines with Your Class](https://hbsp.harvard.edu/inspiring-minds/student-use-cases-for-ai)

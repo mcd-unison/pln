@@ -40,4 +40,3 @@ show_sidebar: false
 
 - [Cursos cortos de *DeepLearning.AI*](https://www.coursera.org/projects/finetuning-large-language-models-project?allowOnboardingRedirect=true&courseSlug=finetuning-large-language-models-project&showOnboardingModal=check)
 
-- 
