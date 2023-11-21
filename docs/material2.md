@@ -58,7 +58,7 @@ show_sidebar: false
 
 - [Understanding LSTM -- a tutorial into Long Short-Term Memory Recurrent Neural Networks (Staudemeyer y Morris, 2019)](https://arxiv.org/abs/1909.09586)
 
-- [Neural Machine Translation by Jointly Learning to Align and Translate (Bhadanau, et al, 2014)](https://arxiv.org/abs/1409.0473)
+- [Neural Machine Translation by Jointly Learning to Align and Translate (Bhadanau et al, 2014)](https://arxiv.org/abs/1409.0473)
 
 - [Attention Is All You Need (Vaswani et al, 2017)](https://arxiv.org/abs/1706.03762)
 
@@ -69,6 +69,8 @@ show_sidebar: false
 - [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer (Raffel et al, 2019)](https://arxiv.org/abs/1910.10683)
 
 - [Reformer: The Efficient Transformer (Kitaev et al, 2020)](https://arxiv.org/abs/2001.04451)
+
+- [Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity (Fedus et al, 2022)](https://arxiv.org/pdf/2101.03961.pdf)
 
 
 ## Sitios y herramientas interesantes
