@@ -52,6 +52,8 @@ show_sidebar: false
 - [LSH Algorithm and Implementation (E2LSH)](https://www.mit.edu/~andoni/LSH/)
 
 
+- [Intro to Large Language Models (Karpathy, 2023, youtube)](https://youtu.be/zjkBMFhNj_g?si=al3CCBwB5hqQ5kPy)
+
 ## Artículos seminales
 
 - [Long Short-Term Memory (Hochreiter y Schmidhuber, 1997)](https://deeplearning.cs.cmu.edu/F23/document/readings/LSTM.pdf)
