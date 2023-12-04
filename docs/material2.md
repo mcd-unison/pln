@@ -53,6 +53,8 @@ show_sidebar: false
 
 
 - [Intro to Large Language Models (Karpathy, 2023, youtube)](https://youtu.be/zjkBMFhNj_g?si=al3CCBwB5hqQ5kPy)
+  
+- [LMM Visualization (Bycroft, 2023)](https://bbycroft.net/llm)
 
 ## Artículos seminales
 
